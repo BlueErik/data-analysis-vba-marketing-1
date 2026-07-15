@@ -1,2 +1,19 @@
-# data-analysis-vba-marketing-1
-Data Analysis: Excel VBA full project for digital marketing advertisement data - Part 1
+## Overview 📊
+This is a full personal data analysis project.  
+
+_Microsoft Excel Visual Basic for Applications (VBA) for digital marketing advertisement data._
+
+## Details 🗂️
+
+The VBA script functionalities (by module):
+- 
+- 
+
+
+## How to use 📝
+- 
+- 
+
+
+> [!NOTE]
+> 
